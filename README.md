@@ -14,6 +14,8 @@ root
 
 
 ## Idées
+* Faire une petite page d'histoire
+
 
 ### Musiques
 * Musique d'ascenseur
